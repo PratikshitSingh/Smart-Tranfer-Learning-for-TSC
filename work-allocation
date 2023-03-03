@@ -1,5 +1,9 @@
 3 March work assignment:
 
+Visualization:
+1. Plot time-series
+2. Plot the 2 time series dataset which you're comparing for distance measure.
+
 pratikshit  - DTW implementation and testing with 5C2 dataset + DBA implementation and testing with 5C2 dataset
 siddharth   - PAD impementation and testing with 5C2 dataset
-simran      - Pearson correlation coefficientand testing with 5C2 dataset
+simran      - Pearson correlation coefficient and testing with 5C2 dataset
