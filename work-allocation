@@ -1,4 +1,5 @@
 3 March work assignment:
-pratikshit - DTW implementation
-siddharth - PAD impementation
-simran - Pearson correlation coefficient
+
+pratikshit  - DTW implementation and testing with 5C2 dataset
+siddharth   - PAD impementation and testing with 5C2 dataset
+simran      - Pearson correlation coefficientand testing with 5C2 dataset
