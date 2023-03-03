@@ -6,4 +6,4 @@ Visualization:
 
 pratikshit  - DTW implementation and testing with 5C2 dataset + DBA implementation and testing with 5C2 dataset
 siddharth   - PAD impementation and testing with 5C2 dataset
-simran      - Pearson correlation coefficient and testing with 5C2 dataset
+simran      - Pearson correlation coefficient, time lagged cross-correlation and testing with 5C2 dataset
