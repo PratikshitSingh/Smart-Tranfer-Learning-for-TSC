@@ -7,3 +7,8 @@ Visualization:
 pratikshit  - DTW implementation and testing with 5C2 dataset + DBA implementation and testing with 5C2 dataset
 siddharth   - PAD impementation and testing with 5C2 dataset
 simran      - Pearson correlation coefficient, time lagged cross-correlation and testing with 5C2 dataset
+
+
+31 March:
+Code - CNN implementation
+Theory - Analyse and report down the similarity among datasets measured from different distance-measure methods.
