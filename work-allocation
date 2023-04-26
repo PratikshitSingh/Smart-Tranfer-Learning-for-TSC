@@ -10,5 +10,9 @@ simran      - Pearson correlation coefficient, time lagged cross-correlation and
 
 
 31 March:
-Code - CNN implementation - PS, Sid
+model Code - CNN implementation - PS
+Data loader Code - Sid
 Theory - Analyse and report down the similarity among datasets measured from different distance-measure methods -v Simaran
+
+26 April:
+"Analyse and report down the similarity among datasets measured from different distance-measure methods" - based on this work run the same dataset pairs too on the CNN model to get results and verify them
